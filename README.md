@@ -9,5 +9,5 @@ This team project is part of the Holberton/ALx  School Full-Stack Software Engin
 AUTHORS
 ---
 + Richard Ouma
-+ Rachaelkivuti
++ Rachael Kivuti
 
